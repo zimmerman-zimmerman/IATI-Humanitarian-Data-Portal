@@ -168,7 +168,7 @@
     "react-snap": "^1.23.0",
     "resolve": "^1.12.0",
     "sass-loader": "^7.1.0",
-    "semantic-release": "^15.13.24",
+    "semantic-release": "^17.2.3",
     "semver": "^6.3.0",
     "standard-version": "^7.0.0",
     "style-loader": "^0.23.1",
